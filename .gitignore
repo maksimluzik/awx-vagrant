@@ -1,0 +1,4 @@
+.idea/
+.vagrant/
+roles/
+provisioning/playbook.retry
