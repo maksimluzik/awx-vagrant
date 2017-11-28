@@ -16,7 +16,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   # AWX VM.
   config.vm.define "awx" do |awx|
-    awx.vm.network "forwarded_port", guest: 80, host: 8080
+    awx.vm.network "forwarded_port", guest: 80, host: 8888
     awx.vm.hostname = "awx.local"
     awx.vm.network :private_network, ip: "192.168.6.65"
 
