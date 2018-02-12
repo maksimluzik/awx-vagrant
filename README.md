@@ -41,4 +41,4 @@ If you'd like additional assistance editing your hosts file, please read [How do
 
 ## Author Information
 
-Modified by Maksim Luzik (http://maksimluzik.com). Created in 2017 by [Jeff Geerling](http://jeffgeerling.com/), author of [Ansible for DevOps](https://www.ansiblefordevops.com/).
+Modified by [Maksim Luzik](http://maksimluzik.com). Created in 2017 by [Jeff Geerling](http://jeffgeerling.com/), author of [Ansible for DevOps](https://www.ansiblefordevops.com/).
