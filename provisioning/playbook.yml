@@ -9,9 +9,9 @@
 
   vars:
     awx_version: "devel"
+    postgres_data_dir: "/root/pgdocker"
     nodejs_version: "6.x"
     pip_install_packages:
-    postgres_data_dir: "/root/pgdocker"
       - name: docker-py
 
   roles:
