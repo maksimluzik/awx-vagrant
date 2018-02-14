@@ -21,4 +21,4 @@
     - geerlingguy.docker
     - geerlingguy.pip
     - geerlingguy.nodejs
-    - geerlingguy.awx
+    - { role: geerlingguy.awx, postgres_data_dir: '/root/pgdocker' }
